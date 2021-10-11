@@ -19,3 +19,11 @@
 .data {
     margin-bottom: 5px;
 }
+.testo-importante {
+    background-color: yellow;
+}
+.unordered-list {
+    margin: 0;
+    text-align: left;
+   
+}
