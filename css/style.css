@@ -30,11 +30,14 @@
 
 .tabella-informazioni {
     text-align: left;
+    width: 1750px;
 }
 .intestazione {
 background-color: lightblue;
+height: 20px;
 }
 
 .riga-verde {
     background-color: lightgreen;
+    height: 50px;
 }
