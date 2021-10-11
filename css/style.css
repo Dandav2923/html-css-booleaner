@@ -1,3 +1,18 @@
 .header {
+    height: 70px;
     background-color: lightblue;
+    background-image: url(../img/pattern.png);
+    background-size: 20%;
+
+}
+.logo {
+    height: 30px;
+    margin-top: 40px;
+}
+.Titolo-articolo {
+    margin: 0;
+}
+
+.testo-blu {
+    color: blue;
 }
