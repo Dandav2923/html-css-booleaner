@@ -27,3 +27,14 @@
     text-align: left;
    
 }
+
+.tabella-informazioni {
+    text-align: left;
+}
+.intestazione {
+background-color: lightblue;
+}
+
+.riga-verde {
+    background-color: lightgreen;
+}
