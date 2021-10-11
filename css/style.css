@@ -3,7 +3,6 @@
     background-color: lightblue;
     background-image: url(../img/pattern.png);
     background-size: 20%;
-
 }
 .logo {
     height: 30px;
@@ -12,7 +11,6 @@
 .Titolo-articolo {
     margin: 0;
 }
-
 .testo-blu {
     color: blue;
 }
@@ -28,25 +26,23 @@
     text-align: left;
    
 }
-
 .tabella-informazioni {
     text-align: left;
     width: 1750px;
+}
+th,td {
+    width: 35%;
 }
 .intestazione {
 background-color: lightblue;
 height: 20px;
 }
-
 .riga-verde {
     background-color: lightgreen;
-    height: 50px;
 }
-
 .Testo-finale {
     color: grey;
 }
-
 .contenitore-foto {
     margin-top: 10px;
     width: 150px;
@@ -55,7 +51,6 @@ height: 20px;
 }
 .testo-bianco {
     color: white;
-    
 }
 .foto-finale {
     margin-top: 10px;
