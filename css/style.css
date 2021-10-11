@@ -11,6 +11,12 @@
 .Titolo-articolo {
     margin: 0;
 }
+.tim-sinistra {
+    height: 325px;;
+}
+.tim-destra{
+    height: 325px;;
+}
 .testo-blu {
     color: blue;
 }
