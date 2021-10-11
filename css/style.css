@@ -41,3 +41,25 @@ height: 20px;
     background-color: lightgreen;
     height: 50px;
 }
+
+.Testo-finale {
+    color: grey;
+}
+
+.contenitore-foto {
+    margin-top: 10px;
+    width: 150px;
+    height: 150px;
+    background-image: url(../img/graph.jpg);
+}
+.testo-bianco {
+    color: white;
+    
+}
+.foto-finale {
+    margin-top: 10px;
+    width: 150px;
+    height: 150px;
+    background-image: url(../img/monitor.jpg);
+}
+}
